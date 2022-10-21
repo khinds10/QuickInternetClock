@@ -3,6 +3,15 @@ ESP32 Internet Clock, Handsfree sets time automatically.
 
 ![clock7](https://github.com/khinds10/QuickInternetClock/blob/master/construction/clock7.jpg "clock7")
 
+**Clone Project**
+From github download/clone the project to get started
+
+https://github.com/khinds10/QuickInternetClock
+
+**3D Printing:**
+
+From the "3D Print" folder print 1 back panel, 1 case, 2 edges and 1 front panel.
+
 **Supplies Needed**
 
 1.2" 7 Segment Display
@@ -20,6 +29,7 @@ OTG USB Splitter (display needs 5V Power)
 Polycarbonate-Semi-Transparent (smoke gray)
 
 ![Polycarbonate-Semi-Transparent](https://github.com/khinds10/QuickInternetClock/blob/master/construction/Polycarbonate-Semi-Transparent.jpg "Polycarbonate-Semi-Transparent")
+
 
 **Wiring:**
 
