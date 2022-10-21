@@ -1,4 +1,4 @@
-# ESP32 Quick Internet Clock
+# ESP32 Quick Internet Clock (automatic timeset)
 ESP32 Internet Clock, Handsfree sets time automatically.
 
 ![clock7](https://github.com/khinds10/QuickInternetClock/blob/master/construction/clock7.jpg "clock7")
